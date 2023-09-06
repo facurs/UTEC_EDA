@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/facundors/Desktop/UTEC/EDA/semana1-1/9_8/proyecto_practica1/Cabeceras"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/g++", // Ruta al compilador g++
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
